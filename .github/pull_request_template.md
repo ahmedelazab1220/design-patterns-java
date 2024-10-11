@@ -1,0 +1,4 @@
+- [ ] I have read [CONTRIBUTING.md](https://github.com/ahmedelazab1220/Java-DesignPattern/blob/main/CONTRIBUTING.md).
+- [ ] This pull request is all my own work -- I have not plagiarized it.
+- [ ] All filenames are in PascalCase.
+- [ ] All functions and variable names follow Java naming conventions.
