@@ -14,7 +14,7 @@ Whether you're a beginner or an experienced Java developer, this project provide
 
 - Behavioral: Strategy, Observer, Command, etc.
 
-##🚀 Why Contribute?
+## 🚀 Why Contribute?
 
 By contributing to this project, you’ll help create a high-quality resource for the Java developer community. You’ll also:
 
