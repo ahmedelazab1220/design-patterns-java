@@ -19,11 +19,11 @@ public abstract class Duck {
         this.quackBehavior = quackBehavior;
     }
 
-    void doFly() {
+    public void doFly() {
         flyBehavior.fly();
     }
 
-    void doQuack() {
+    public void doQuack() {
         quackBehavior.quack();
     }
 
